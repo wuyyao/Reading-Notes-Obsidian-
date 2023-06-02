@@ -99,8 +99,6 @@
 ·简化公式8：
 ![](https://github.com/wuyyao/Reading-Notes-Obsidian-/blob/main/Images/images-songSolvingInverseProblems2022/6.png?raw=true)
 
-![](https://github.com/wuyyao/Reading-Notes-Obsidian-/blob/main/Images/images-songSolvingInverseProblems2022/1.png)
-![](https://github.com/wuyyao/Reading-Notes-Obsidian-/tree/main/Images/images-songSolvingInverseProblems2022/1.png)
 ## 5. 结论
 
 ·提出一种新的基于分数生成模型来求解线性反问题。该方法是无监督学习，不需要配对的数据进行训练，可以灵活地适应测试时不同的测量过程，并且只需要对基于分数的生成模型的大量现有采样方法进行极小的修改。实验结果表明，我们的方法在稀疏角度CT和欠采样MRI的图像重建上能够与现有的监督学习方法媲美或优于现有的监督学习方法，并且对新的测量过程具有更好的泛化性，例如在CT / MRI中使用不同数量的投影或下采样比例，以及用单一模型同时处理稀疏角度CT重建和金属伪影去除。
